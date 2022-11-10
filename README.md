@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Brained Assignment Frontend
+
+Live: [https://brained-assignment-frontend.vercel.app](https://brained-assignment-frontend.vercel.app)
+
+Backend code: [https://github.com/maneeshmashelkar/brained_assignment_backend](https://github.com/maneeshmashelkar/brained_assignment_backend)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
